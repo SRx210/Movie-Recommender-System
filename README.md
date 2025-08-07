@@ -29,7 +29,7 @@ A content-based movie recommendation web application built using **Python**, **S
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/SRx210/movie-recommender-system.git
+git clone https://github.com/SRx210/Movie-Recommender-System.git
 cd movie-recommender-system
 ````
 
