@@ -87,5 +87,3 @@ recommend("Avatar")
 Developed by **Sohan Raut** ✨
 
 ---
-
-Would you like me to also auto-generate a **`requirements.txt`** file from your notebook imports so that running the project becomes plug-and-play?
