@@ -67,12 +67,12 @@ recommend("Avatar")
 
 ➡️ Suggested Movies:
 
-* Guardians of the Galaxy
-* Star Wars: The Force Awakens
-* Star Trek
-* John Carter
-* The Avengers
-
+* Aliens vs Predator: Requiem
+* Aliens
+* Falcon Rising
+* Independence Day
+* Titan A.E.
+ 
 ---
 
 ## 👨‍💻 Author
