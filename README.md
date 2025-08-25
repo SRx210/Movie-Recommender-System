@@ -13,6 +13,7 @@ The project uses the following datasets (available on Kaggle’s TMDB 5000 Movie
 
 * `tmdb_5000_movies.csv`
 * `tmdb_5000_credits.csv`
+* (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ---
 
@@ -30,7 +31,7 @@ The project uses the following datasets (available on Kaggle’s TMDB 5000 Movie
 
 ## 🛠️ Technologies Used
 
-* **Python** 🐍
+* **Python** - Programming language
 * **Pandas** – Data handling
 * **NumPy** – Numerical operations
 * **Scikit-learn** – Vectorization & similarity computation
@@ -45,15 +46,15 @@ The project uses the following datasets (available on Kaggle’s TMDB 5000 Movie
    git clone https://github.com/<your-username>/Movie-Recommender-System.git
    cd Movie-Recommender-System
    ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook:
+2. Run the Jupyter Notebook:
 
    ```bash
    jupyter notebook Untitled-1.ipynb
+   ```
+3. Run the Streamlit Python App:
+
+   ```bash
+   streamlit run app.py
    ```
 
 ---
@@ -71,14 +72,6 @@ recommend("Avatar")
 * Star Trek
 * John Carter
 * The Avengers
-
----
-
-## 📌 Future Improvements
-
-* Deploy model using **Streamlit / Flask**
-* Add **collaborative filtering** for user-based recommendations
-* Optimize performance with **TF-IDF** instead of simple CountVectorizer
 
 ---
 
